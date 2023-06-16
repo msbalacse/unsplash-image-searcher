@@ -1,0 +1,15 @@
+.Form {
+  min-height: auto;
+  background-color: lightgreen;
+  padding: 1rem;
+}
+
+.Form__Header {
+  font-family: "Kablammo", cursive;
+  padding: 1rem 0;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
